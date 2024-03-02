@@ -1,0 +1,26 @@
+{
+  "name": "tea-for-key",
+  "version": "1.0.0",
+  "description": " \"Инструмент для работы с файловой системой по БЕМ методологии.\"",
+  "main": "index.js",
+  "bin": {
+    "tea-for-key": "bin/cpbem.js"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/keyboyya/tea-for-key.git"
+  },
+  "author": "boyya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keyboyya/tea-for-key/issues"
+  },
+  "homepage": "https://github.com/keyboyya/tea-for-key#readme"
+}
